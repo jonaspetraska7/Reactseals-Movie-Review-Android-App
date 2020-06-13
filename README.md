@@ -1,2 +1,2 @@
-React Seals Movie Review Mobile Application
+* React Seals Movie Review Mobile Application *
 
