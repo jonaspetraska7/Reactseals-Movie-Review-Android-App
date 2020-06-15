@@ -1,28 +1,27 @@
 {
   "expo": {
-    "name": "movieapp",
-    "slug": "movieapp",
+    "name": "MovieNight",
+    "slug": "MovieNight",
     "platforms": [
-      "ios",
       "android",
-      "web"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon_new.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/s.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.jonaspetraska7.MovieNight",
+      "versionCode": 1
     },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    }
+    ]
   }
 }

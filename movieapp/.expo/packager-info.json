@@ -2,6 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 16948,
-  "webpackServerPort": 19006
+  "packagerPid": 17344,
+  "webpackServerPort": 19006,
+  "expoServerNgrokUrl": "https://h3-ay8.jonaspetraska7.movieapp.exp.direct",
+  "packagerNgrokUrl": "https://packager.h3-ay8.jonaspetraska7.movieapp.exp.direct",
+  "ngrokPid": 11464
 }
