@@ -5,6 +5,7 @@ import { createStackNavigator } from '@react-navigation/stack';
 import Browse from './components/Browse';
 import Welcome from './components/Welcome';
 import Search from './components/Search';
+import Details from './components/Details';
 
 const Stack = createStackNavigator();
 
@@ -15,6 +16,7 @@ export default function App() {
         <Stack.Screen name="Browse" component={Browse} />
         <Stack.Screen name="Welcome" component={Welcome} />
         <Stack.Screen name="Search" component={Search} />
+        <Stack.Screen name="Details" component={Details} />
       </Stack.Navigator>
     </NavigationContainer>
   );
