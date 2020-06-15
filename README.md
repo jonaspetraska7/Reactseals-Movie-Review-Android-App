@@ -20,13 +20,10 @@ expo start
 
 ## Screenshots
 
-![picture](https://github.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/tree/master/screenshots/ss1.png)
-![picture](https://github.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/tree/master/screenshots/ss2.png)
-![picture](https://github.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/tree/master/screenshots/ss3.png)
+<img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss1.png" width="30%"></img> <img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss2.png" width="30%"></img> <img src="https://raw.githubusercontent.com/jonaspetraska7/Reactseals-Movie-Review-Android-App/master/screenshots/ss3.png" width="30%"></img> 
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
